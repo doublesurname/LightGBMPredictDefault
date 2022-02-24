@@ -45,7 +45,7 @@ def index(): #can name it anything, doesn't need to be index
 
 #only run if its your programme
 if __name__ == "__main__":
-    app.run(host= "127.0.0.1", port=int("1111"))
+    app.run()
 
 
 # In[ ]:
